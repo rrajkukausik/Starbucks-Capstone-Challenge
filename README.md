@@ -26,6 +26,10 @@ The project is supported by Python 3.x (Hint: directly install the Anaconda dist
   3. Seaborn
   4. Matplotlib
   5. Scikit-learn
+  6. json
+  7. warnings
+  8. imp
+  8. Ipython
 ```
 
 
