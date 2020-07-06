@@ -38,6 +38,12 @@ The project is supported by Python 3.x (Hint: directly install the Anaconda dist
 This project aims at discovering customer behavior based on simulated Starbucks app data. 
 Datasets that contains offer information, customer demography, records of transactions, and customer-offer interaction data.
 
+This challenge is one of the final projects for Udacity Data Science Nanodegree course. For this project, we have datasets from Starbucks which contain simulated data that mimics customer behaviour on the Starbucks rewards mobile app.
+
+The reason why companies use different offers or discounts campaigns is to stimulate customers to come more often and spend more. This ultimately helps to increase the revenue and profit for the company. In this project I'll try to link the response to the offers with the overall customer behaviour. This can help us to understand the structure of the customer and develop strategies for different groups.
+
+The end goal is to find some segments of the current customers depending on their behaviour and figure out which segment would be the most interesting for a further advertisement campaign and where we can change the frequency of offers.
+
 
 ## Project Overview
 
@@ -128,11 +134,9 @@ When we analyze the users' willing, we use the amount as the target label and th
 
 3. **Model Result**
 
-   We build three models: the linear regression is a basic model, then the model is optimized by the decision tree regression and the random forest regression. At the same time, we use the GridSearchCV to tune the model. The last two model can analyze the important feature.
+  *  I was managed to find 5 different groups with unsupervised machine learning algorithm (K-Means). With this information, a company can implement some different marketing campaigns for each group depending on the general strategy.
 
-   * The last two model get a better score than the basic model. The mean squared value is closed to **1**, and the R square value is **0.5925** about the test data
-
-   * According to the feature importance, the feature high-income level, the feature became-member date, and the female gender are important demographic information. At the promotion side, the promotion duration is more important than the promotion type; the BOGO type and the discount type are not important.
+  * For this project, we have data only for the one-month period, but it would be interesting to analyze a longer period, like several months or  even  years. Then we can see the structure (clusters) changes over time and could also estimate the impact of changing offer’s parameters like frequency of campaign, offers’ difficulty, duration and reward.
 
    
    For more information you can refer to my blog post. 
