@@ -140,7 +140,7 @@ When we analyze the users' willing, we use the amount as the target label and th
 
    
    For more information you can refer to my blog post. 
-   **The Medium Link For The Project Is  https://medium.com**. 
+   **The Medium Link For The Project Is  https://medium.com/@rrajkukausik/analyzing-starbucks-customers-84b36f8f24d6?sk=66ca244760b4db359158b818e439ece8**. 
 
 ## Acknowledge
   Besides, you must know that the project is under the Udacity Data Science Capstone Project, and the dataset is provied by the Starbucks.
