@@ -2,7 +2,6 @@
 
 ## STARBUCKS CAPSTONE CHALLENGE
 
-
 **Table Of Contents**
 
 ```
@@ -139,8 +138,8 @@ When we analyze the users' willing, we use the amount as the target label and th
   Besides, you must know that the project is under the Udacity Data Science Capstone Project, and the dataset is provied by the Starbucks.
 
 ## Author
-**Raj Kumar Kausik**
-**Email-** - rrajkukausik@gmail.com
+* **Raj Kumar Kausik**
+* **Email-** - rrajkukausik@gmail.com
 
 
 
