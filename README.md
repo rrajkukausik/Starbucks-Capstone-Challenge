@@ -12,6 +12,7 @@
 5. File Descripton
 6. Results
 7. Acknowledgement
+8. About the Author
 ```
 
 
@@ -145,7 +146,7 @@ When we analyze the users' willing, we use the amount as the target label and th
 ## Acknowledge
   Besides, you must know that the project is under the Udacity Data Science Capstone Project, and the dataset is provied by the Starbucks.
 
-## Author
+## About the Author
 * **Raj Kumar Kausik**
 * **Email-** - rrajkukausik@gmail.com
 
